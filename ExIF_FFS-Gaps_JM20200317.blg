@@ -1,0 +1,5 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'ExIF_FFS-Gaps_JM20200317.blg'
+[48] biber-darwin:290> INFO - === Tue Mar 17, 2020, 12:39:50
+[67] Biber.pm:351> INFO - Reading 'ExIF_FFS-Gaps_JM20200317.bcf'
+[158] Utils.pm:149> WARN - No data sources defined!
